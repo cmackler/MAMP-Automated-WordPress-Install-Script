@@ -1,6 +1,6 @@
 # MAMP Automated Wordpress Install Script
 
-Installs WordPress Automatically through OSX terminal.
+Installs the latest version of WordPress Automatically through OSX terminal.
 
 1. Copy the script into your /usr/local/bin folder. This allows you to run the AWIS command globally.
 2. Run the AWIS script in terminal.
