@@ -1,0 +1,1 @@
+# local-automated-wordpress-install
